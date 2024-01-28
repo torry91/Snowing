@@ -2,6 +2,7 @@
 
 ## Overview
 This web page features a New Year countdown timer that displays the days, hours, minutes, and seconds until the specified date. When the countdown reaches zero, the page transitions to a celebration mode, changing the heading to "Happy New Year!!!" and playing festive background audio. The page also includes dynamic particle animations to create an engaging visual experience.
+<img width="1463" alt="Screenshot 2024-01-27 at 20 34 46" src="https://github.com/torry91/Snowing/assets/149702982/13c8743b-7310-4267-bb7f-29144ba45b2c">
 
 ## Features
 Countdown Timer: The main feature is a countdown timer to a specified date (December 31, 2024, 12:14 in this case). The timer updates every second, showing the remaining days, hours, minutes, and seconds.
